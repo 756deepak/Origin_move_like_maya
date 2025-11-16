@@ -1,0 +1,17 @@
+schema_version = "1.0.0"
+
+id = "Origin_move_like_maya"
+version = "1.1.0"
+name = "Origin_move_like_maya (Press D)"
+tagline = "Move pivot independently with snapping and gizmo like maya"
+maintainer = "Deepak"
+type = "add-on"
+
+
+tags = ["Object", "Modeling", "Mesh"]
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
